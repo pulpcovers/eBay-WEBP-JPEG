@@ -4,8 +4,8 @@
 // @version      1.1
 // @description  Rewrite ebayimg.com s-l1600.webp image URLs to s-l1600.jpg
 // @author       PulpCovers.com
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/pulpcovers/eBay-WEBP-JPEG/raw/refs/heads/main/WebPRewriter.js
+// @downloadURL  https://github.com/pulpcovers/eBay-WEBP-JPEG/raw/refs/heads/main/WebPRewriter.js
 // @match        *://*.ebayimg.com/*
 // @match        *://*.ebay.com/*
 // @run-at       document-start
