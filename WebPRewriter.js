@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         eBay s-l1600 WebP → JPG Rewriter
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Rewrite ebayimg.com s-l1600.webp image URLs to s-l1600.jpg
 // @author       PulpCovers.com
 // @updateURL    https://github.com/pulpcovers/eBay-WEBP-JPEG/raw/refs/heads/main/WebPRewriter.js
